@@ -73,6 +73,7 @@ To learn more about [SilverStripe supported](https://www.silverstripe.org/softwa
 * [dynamic/silverstripe-elemental-testimonials](https://github.com/dynamic/silverstripe-elemental-testimonials): Customer testimonials and quotes
 * [nyeholt/silverstripe-ozzymental](https://github.com/nyeholt/silverstripe-ozzymental): oEmbed items (video, etc)
 * [dynamic/silverstripe-elemental-countdown](https://github.com/dynamic/silverstripe-elemental-countdown): Countdown to a specific date/time
+* [otago/tiles](https://github.com/otago/tiles) drag and drop, resizable, dynamic tiling system
 
 ## Helpful modules
 
